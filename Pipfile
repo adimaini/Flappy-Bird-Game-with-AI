@@ -8,7 +8,6 @@ verify_ssl = true
 [packages]
 pygame = "*"
 neat-python = "*"
-os = "*"
 
 [requires]
 python_version = "3.7"
